@@ -1,2 +1,2 @@
 # Node-js-CRUD
-Node.js is a JavaScript runtime that allows developers to build scalable, server-side applications. JSON (JavaScript Object Notation) is a lightweight data-interchange format commonly used with Node.js for data storage and communication. CRUD stands for Create, Read, Update, and Delete—the four basic operations for managing data. In Node.js, these operations can be implemented using the fs (File System) module or a database like MongoDB. For example, you can create JSON data, read it, update records, and delete entries, making it simple to handle data in RESTful APIs, web services, and full-stack applications. It’s widely used for server-side web development.
+Node js json crud with express js and template engine ejs.
